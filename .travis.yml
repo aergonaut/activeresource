@@ -53,6 +53,8 @@ matrix:
       env: BRANCH=6-0-stable
     - rvm: 2.7.2
       env: BRANCH=6-1-stable
+    - rvm: 2.7.2
+      env: BRANCH=7-0-stable
 
 notifications:
   email: false
